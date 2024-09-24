@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to micro Software Solutions. Manglore jayanagar,Karnataka </h1>
+<h1 align="center">Welcome to micro Software Solutions. Manglore ,Karnataka </h1>
 <h1 align="center"> micro Software Solutions- Very Good Training center for DevOps with AWS and Azure along with this  all in one  in manglore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
